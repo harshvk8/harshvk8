@@ -19,6 +19,7 @@
 - Python
 - Git / GitHub
 - Android Development
+- HTML
 
 ## 📫 Contact
 Email: harshvk8240@gmial.com
