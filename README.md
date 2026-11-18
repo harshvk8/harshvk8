@@ -50,23 +50,4 @@ I've led Agile teams shipping payment and full-stack apps, and I'm a research sc
   <img src="https://streak-stats.demolab.com/?user=harshvk8&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/harshvk8/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/harshvk8/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/harshvk8/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/harshvk8/REPO-NAME-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" /></a>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.harshvardhannimesh.com/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/harshvardhan-nimesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshvardhannimesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
