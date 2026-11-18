@@ -40,8 +40,8 @@ I've led Agile teams shipping payment and full-stack apps, and I'm a research sc
 - Open-source collaboration
 
 ## 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&hide_rank=true&hide=stars,issues,contribs&count_private=true&include_all_commits=true&custom_title=Harshvardhan%27s%20GitHub%20Activity)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact&hide_title=false)
 
 ## 📫 Let's Connect
 Reach me at **harshvardhannimesh@gmail.com** or on [LinkedIn](https://linkedin.com/in/harshvardhan-nimesh).
