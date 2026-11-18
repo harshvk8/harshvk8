@@ -42,8 +42,8 @@ I've led Agile teams shipping payment and full-stack apps, and I'm a research sc
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&hide_rank=true&hide=stars,issues,contribs&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Commits%20%26%20Pull%20Requests" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&hide_rank=true&hide=stars,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Harshvardhan%27s%20GitHub%20Activity" alt="GitHub stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
