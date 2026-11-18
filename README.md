@@ -50,8 +50,15 @@ I've led Agile teams shipping payment and full-stack apps, and I'm a research sc
   <img src="https://streak-stats.demolab.com/?user=harshvk8&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
+## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvk8&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <a href="https://github.com/harshvk8/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/harshvk8/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/harshvk8/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/harshvk8/REPO-NAME-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshvk8&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
