@@ -39,9 +39,27 @@ I've led Agile teams shipping payment and full-stack apps, and I'm a research sc
 - Research opportunities in AI, security, and systems
 - Open-source collaboration
 
-## 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&hide_rank=true&hide=stars,issues,contribs&count_private=true&include_all_commits=true&custom_title=Harshvardhan%27s%20GitHub%20Activity)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact&hide_title=false)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&hide_rank=true&hide=stars,issues,contribs&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Commits%20%26%20Pull%20Requests" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshvk8&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvk8&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
 
 ## 📫 Let's Connect
-Reach me at **harshvardhannimesh@gmail.com** or on [LinkedIn](https://linkedin.com/in/harshvardhan-nimesh).
+
+<p align="center">
+  <a href="https://www.harshvardhannimesh.com/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/harshvardhan-nimesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshvardhannimesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
