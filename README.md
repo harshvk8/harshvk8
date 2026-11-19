@@ -43,8 +43,7 @@ I've led Agile teams shipping payment and full-stack apps, and I'm a research sc
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=harshvk8&show_icons=true&hide_rank=true&hide=stars,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Harshvardhan%27s%20GitHub%20Activity" alt="GitHub stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvk8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+ 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=harshvk8&theme=tokyonight&hide_border=true" alt="Contribution streak" />
